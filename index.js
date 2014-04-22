@@ -1,4 +1,4 @@
-var raf = require('raf');
+var raf = require('component-raf');
 var queue = [];
 var requestId;
 var id = 0;

@@ -1,0 +1,7 @@
+{
+  "name": "anthonyshort-raf-queue",
+  "version": "0.2.0",
+  "dependencies": {
+    "component-raf": "git://github.com/npmcomponent/component-raf.git"
+  }
+}
